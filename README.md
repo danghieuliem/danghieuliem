@@ -10,7 +10,7 @@
 <div align="center">
   <span>
     <h1>Hello, I'm Liem Dang</h1>
-    <h4>I'm a web developer. <br> Please take a look at my <a href="./access/access/Dang Hieu Liem front-end.pdf" target="_blank">resume</a> for more information.</h4>
+    <h4>I'm a web developer. <br> Please take a look at my <a href="./access/Dang Hieu Liem front-end.pdf" target="_blank">resume</a> for more information.</h4>
   </span>
 </div>
 
