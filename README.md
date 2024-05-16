@@ -9,18 +9,52 @@
 
 <div align="center">
   <span>
-    <h1>Hello, I'm Liem Dang,</h1>
-    <h4>I'm a web developer. Please take a look at my <a href="https://github.com/danghieliem/danghieliem/access/Dang_Hieu-Liem_don-xin-thoi-viec.pdf" target="_blank">resume</a> for more information.</h4>
+    <h1>Hello, I'm Liem Dang</h1>
+    <h4>I'm a web developer. <br> Please take a look at my <a href="https://raw.githubusercontent.com/danghieuliem/danghieuliem/output/github-contribution-grid-snake-dark.svg" target="_blank">resume</a> for more information.</h4>
   </span>
 </div>
 
 <hr>
 
+<summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/danghieuliem/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:hieuliem33@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+
 <div align="center">
     <img src="/access/grid-snake.svg" alt="snake">
 </div>
 
-<hr>
+<div align="center">
+    <h2>Technologies That I Know👨🏻‍💻</h2>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,mongodb,postman,redux,bootstrap,scss,jest,github,nextjs,express,linux,mysql,nodejs,tailwind,vscode,mui,nest,vue,ubuntu,react,figma,aws,graphql&perline=9" />
+  </a>
+</p>
+
+<br>
 
 <div align="center">
   <h2>GitHub Profile Stats 💻</h2>
@@ -44,12 +78,11 @@
 
 <br>
 <h2 align="center">Latest Contribution 📈</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=danghieuliem&theme=github-compact&hide_border=true">
+<a href="https://github.com/danghieuliem">
+  <img alt="Liem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=danghieuliem&theme=github-compact&hide_border=true">
 </a>
 <br>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danghieuliem)](https://github.com/danghieuliem/danghieuliem)
 
 </body>
 </html>
